@@ -63,7 +63,7 @@ You're now ready to go. If you want to customize the Airtable base, please refer
 
 ## Crucial Commands
 
-This project comes with a few handy commands for linting and code fixing. The most important ones are the ones to develop and ship code. You can find the most important commands below.
+This project comes with a few handy commands for linting and code fixing. The most important ones are the ones to develop and ship code. You can find the most important commands below
 
 #### `gatsby develop`
 
