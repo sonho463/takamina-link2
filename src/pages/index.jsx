@@ -14,9 +14,9 @@ export default ({ data }) => {
 
       <Hero
         image={data.hero}
-        tag="#travel"
-        title="Travel destinations"
-        description="Check the most popular travel locations in Europe."
+        tag="study ICT"
+        title="パソコンのべんきょうのためのリンク"
+        description="子どもたちがかんたんに　ぱそこんの　べんきょうができるように　いろいろなサイトを　あつめています"
       />
 
       <Cards nodes={data.items.nodes} />
