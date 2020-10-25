@@ -15,7 +15,7 @@ export const SignupForm = () => {
             みなさんが、たのしく　ぱそこんの　べんきょうを　してくれますように！
           </p>
         </div>
-        <div className="flex w-full md:w-1/2 lg:w-auto">
+        {/* <div className="flex w-full md:w-1/2 lg:w-auto">
           <input
             aria-label="E-mail address"
             className="flex-1 lg:w-64 rounded-l-lg placeholder-blue-800 text-blue-800 px-4 py-1 border border-blue-700 appearance-none rounded-left text-lg leading-loose focus:outline-none focus:shadow-outline"
@@ -30,7 +30,7 @@ export const SignupForm = () => {
             type="submit"
             value="Sign up"
           />
-        </div>
+        </div> */}
       </div>
     </form>
   )
