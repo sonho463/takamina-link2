@@ -7,8 +7,8 @@ export default ({ data }) => {
   return (
     <Layout>
       <SiteMetadata
-        title="Travel destinations"
-        description="Check the most popular travel destinations in Europe."
+        title="パソコンのべんきょうのためのリンク"
+        description="子どもたちがかんたんに　ぱそこんの　べんきょうができるように　いろいろなサイトを　あつめています"
         image={data.hero.url}
       />
 
@@ -39,6 +39,7 @@ export const query = graphql`
           name
           slug
           summary
+          url
         }
       }
     }
